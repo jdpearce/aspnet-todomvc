@@ -1,5 +1,7 @@
-This is a simple implementation of the Knockout.js TodoMVC project which uses ASP.NET Web API for backend storage rather than localStorage.
+ASP.NET Todo MVC with Knockout.js and Web API
 ===
+
+This is a simple implementation of the Knockout.js TodoMVC project which uses ASP.NET Web API for backend storage rather than localStorage.
 
 ### How to build
 
